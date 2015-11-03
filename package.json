@@ -1,0 +1,25 @@
+{
+  "name": "webpack-overview",
+  "version": "1.0.0",
+  "description": "Hi Guys, the purpose of this repo is to tell you a brief overview of Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brion25/webpack-overview.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "JC Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brion25/webpack-overview/issues"
+  },
+  "homepage": "https://github.com/brion25/webpack-overview#readme",
+  "devDependencies": {
+    "webpack": "^1.12.2"
+  }
+}
